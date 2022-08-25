@@ -18,48 +18,47 @@ OBJETIVOS ESPECIFICOS CAPITULO XV
 
 PARTE 1: CIRCUITOS EN SERIE
 
-◆ Usar números complejos para expresar cantidades fasoriales
+      ◆ Usar números complejos para expresar cantidades fasoriales
 
-◆ Describir la relación entre corriente y voltaje en un circuito RC en serie
+      ◆ Describir la relación entre corriente y voltaje en un circuito RC en serie
 
-◆ Determinar la impedancia de un circuito RC en serie, analizar un circuito RC en serie
+      ◆ Determinar la impedancia de un circuito RC en serie, analizar un circuito RC en serie
 
 PARTE 2: CIRCUITOS EN PARALELO
 
-◆ Determinar impedancia y admitancia en un circuito RC en paralelo
+      ◆ Determinar impedancia y admitancia en un circuito RC en paralelo
 
-◆ Analizar un circuito RC en paralelo
+      ◆ Analizar un circuito RC en paralelo
 
 PARTE 3: CIRCUITOS EN SERIE-PARALELO
 
-◆ Analizar circuitos RC en serie-paralelo
+      ◆ Analizar circuitos RC en serie-paralelo
 
 PARTE 4: TEMAS ESPECIALES
 
-◆ Determinar potencia en circuitos RC
+      ◆ Determinar potencia en circuitos RC
 
-◆ Analizar algunas aplicaciones básicas de RC, Localizar fallas en circuitos RC
+      ◆ Analizar algunas aplicaciones básicas de RC, Localizar fallas en circuitos RC
 
 OBJETIVOS ESPECIFICOS CAPITULO XVI
 
 PARTE 1: CIRCUITOS EN SERIE
 
-◆ Describir la relación entre corriente y voltaje en un circuito RL en serie
+      ◆ Describir la relación entre corriente y voltaje en un circuito RL en serie
 
-◆ Determinar la impedancia de un circuito RL en serie
+      ◆ Determinar la impedancia de un circuito RL en serie
 
-◆ Analizar un circuito RL en serie
+      ◆ Analizar un circuito RL en serie
 
 PARTE 2: CIRCUITOS EN PARALELO
 
-◆ Determinar impedancia y admitancia en un circuito RL en paralelo
+      ◆ Determinar impedancia y admitancia en un circuito RL en paralelo
 
-◆ Analizar un circuito RL en paralelo
+      ◆ Analizar un circuito RL en paralelo
 
 PARTE 3: CIRCUITOS EN SERIE-PARALELO
 
-◆ Analizar circuitos RL en serie-paralelo
-
+      ◆ Analizar circuitos RL en serie-paralelo
 
 2.- MARCO TEORICO 
 
@@ -80,6 +79,7 @@ https://youtu.be/ZOCQ4rK8Xq
 
 5.- CONCLUSIONES
 
+Los circuitos RC y circuitos RL son similares, pero no iguales, pueden compartir el uso de algunas formulas, sin embargo entre ellos existen algunas diferencias, de igual manera se toma en cuenta los mismo temas puesto que se tiene en cuenta la definición de circuitos en serie, en paralelo, en serie-paralelo y algunos temas especiales, en el circuito RC se encuentran los capacitosres y en el circuito RL se habla de los inductores.
 
 6.- BIBLIOGRAFÍA
 
