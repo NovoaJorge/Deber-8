@@ -116,7 +116,7 @@ https://youtu.be/ZOCQ4rK8Xq
 
 5.- CONCLUSIONES
 
-Los circuitos RC y circuitos RL son similares, pero no iguales, pueden compartir el uso de algunas formulas, sin embargo entre ellos existen algunas diferencias, de igual manera se toma en cuenta los mismo temas puesto que se tiene en cuenta la definición de circuitos en serie, en paralelo, en serie-paralelo y algunos temas especiales, en el circuito RC se encuentran los capacitosres y en el circuito RL se habla de los inductores.
+El circuito RC y el circuito RL son iguales, pero no son lo mismo, pueden usar algunas fórmulas comunes, pero hay algunas diferencias entre ellos, y se consideran problemas similares porque la definición del circuito es mirar en serie, paralelo, paralelo y algunos temas especiales, en un circuito RC hay un capacitor y en un circuito RL se habla de un inductor.
 
 6.- BIBLIOGRAFÍA
 
