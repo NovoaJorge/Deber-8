@@ -64,11 +64,11 @@ PARTE 3: CIRCUITOS EN SERIE-PARALELO
 2.- MARCO TEORICO 
 
 CAPITULO 	XV
-
+![image](https://user-images.githubusercontent.com/105685180/186573211-6e9bbac8-1036-4b46-a035-ba69bab8ac64.png)
 
 CAPITULO XVI
 
-[![Blank-diagram-10.png](https://i.postimg.cc/d1VQz5FS/Blank-diagram-10.png)](https://postimg.cc/mcKG9NtQ)
+![image](https://user-images.githubusercontent.com/105685180/186573431-2056848f-46e2-408a-b7e8-fc80eab23f55.png)
 
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
