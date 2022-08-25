@@ -73,9 +73,6 @@ CAPITULO XVI
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-CAP XI
-
-CAP XII
 
 4.- VIDEO
 
@@ -88,6 +85,3 @@ https://youtu.be/ZOCQ4rK8Xq
 
 (N.d.). Retrieved July 14, 2022, from http://file:///C:/Users/user_lapt/Downloads/5%20Principios%20de%20circuitos%20electricos%20Floyd-protegido.pdf
 
-Leskow, E. C. (n.d.). Corriente alterna. Concepto. Retrieved July 15, 2022, from https://concepto.de/corriente-alterna/
-
-(N.d.-b). Ingmecafenix.com. Retrieved July 15, 2022, from https://www.ingmecafenix.com/electronica/el-capacitor/
